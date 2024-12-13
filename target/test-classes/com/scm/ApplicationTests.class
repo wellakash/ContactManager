@@ -1,0 +1,13 @@
+// Source code is decompiled from a .class file using FernFlower decompiler.
+package com.scm;
+
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ApplicationTests {
+   ApplicationTests() {
+   }
+
+   void contextLoads() {
+   }
+}
